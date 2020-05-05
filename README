@@ -1,1 +1,1 @@
-This system was developed with the purpose of helping in the control of the printers of my workplace, recording the sector changes in a log record; allowing user registration at 2 levels, with md5 password encryption, MySQL database, built with PHP, HTML and CSS.
+This system was developed with the purpose of helping in the control of the printers of my workplace, recording the sector changes in a log record; allowing user registration at 2 levels, with md5 password encryption, MySQL database, built with PHP, HTML and CSS(Bootstrap).
