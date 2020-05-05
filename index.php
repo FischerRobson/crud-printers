@@ -73,7 +73,7 @@ input:focus { box-shadow: inset 0 -5px 45px rgba(100,100,100,0.4), 0 1px 1px rgb
 		<img src="img/login.png" width="30%" >
 	</figure>
 	<h1>Login</h1>
-    <form method="post" action="login2.php">
+    <form method="post" action="login.php">
     	<input type="text" name="usuario" placeholder="Username" required="required" />
         <input type="password" name="senha" placeholder="Password" required="required" />
         
