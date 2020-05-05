@@ -1,1 +1,8 @@
 This system was developed with the purpose of helping in the control of the printers of my workplace, recording the sector changes in a log record; allowing user registration at 2 levels, with md5 password encryption, MySQL database, built with PHP, HTML and CSS(Bootstrap).
+There are 2 users to access the system:
+admin - admin => administrator level;
+basic - 123 => user without permission;
+
+
+Within the system as an administrator it is possible to register a printer with sector, model, serial number, and backup. Change your information, view the change history, register users, sectors and models; view all users.
+With the basic user it is only possible to view the list of printers.
