@@ -1,2 +1,0 @@
-//hiperlink entre impressoras
-//editar e remover
